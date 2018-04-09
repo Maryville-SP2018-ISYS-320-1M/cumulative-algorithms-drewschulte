@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /*
 	ISYS 320
 	Name(s):drew schulte
@@ -20,9 +22,6 @@ public class P8_ThresholdCounter {
 		sum = sum + 1;
 		   }
 		   System.out.println("The count of numbers above the threshold is "+sum);
-		
-		
-
 	}
 
 }
