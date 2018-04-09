@@ -1,7 +1,8 @@
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+
+	Name(s):drew schulte
+	Date: april 8
 */
 
 /*
@@ -22,6 +23,7 @@ public class P3_FixTheSumTo {
 	    for (int i = 1; i <= n; i++) {
 	        int sum = 0; 
 	        sum += i;
+	        return n; 
 	    }
 	}
 

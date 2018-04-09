@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(s):drew schulte
+	Date: april 8 
 */
 
 /*
@@ -12,12 +12,16 @@ import java.util.Scanner;
 
 	| ITERATION 		 | VARIABLE NAME	 | VARIABLE NAME	 | VARIABLE NAME	 |
 	| initialization	 |				 |				 |				 | 
-	| 1				 |				 |				 |				 |
+	| 4				 |				 |				 |				 |
+	| 3				 |				 |				 |				 |
+	| 5				 |				 |				 |				 |
+	| 2				 |				 |				 |				 |
+	| 6				 |				 |				 |				 |
 */
 
 /*
 2. What is does this algorithm accomplish? (i.e., what does it compute or find?)
-
+a value of 2 
 
 */
 
