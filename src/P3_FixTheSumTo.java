@@ -14,17 +14,15 @@
 public class P3_FixTheSumTo {
 
 	public static void main(String[] args) {
-		int totalSum = sumTo( 5 );
-		System.out.println("The total sum is: " + totalSum );
-
+		System.out.println(sumTo(5));
 	}
-	
 	public static int sumTo(int n) { 
+		 int sum = 0;
 	    for (int i = 1; i <= n; i++) {
-	        int sum = 0; 
+	        
 	        sum += i;
-	        return n; 
 	    }
+		return sum;
 	}
-
 }
+
